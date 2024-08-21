@@ -95,3 +95,5 @@ Para iniciar o projeto, siga os passos abaixo:
    ```bash
    npm start
    ```
+
+Raphael Tirola 
